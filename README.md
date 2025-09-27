@@ -62,7 +62,7 @@ https://YOUR-APP.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&t
 
 ## 🌍 Connect
 <p align="center">
-  <a href="http://null404.com"><img src="https://img.shields.io/badge/Website-null404.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="[http://null404.com](https://thearachnids.blogspot.com/)"><img src="https://img.shields.io/badge/Website-null404.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/Cryptologism"><img src="https://img.shields.io/badge/GitHub-Cryptologism-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://thearachnids.blogspot.com/"><img src="https://img.shields.io/badge/Blog-The%20Arachnids-orange?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </p>
