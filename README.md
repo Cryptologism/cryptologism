@@ -1,69 +1,67 @@
-<h1 align="center">🕷️ Welcome to My Lair — Mrs Crypt (Cryptologism)</h1>
+<!-- ======== H4X0R MODE: NEON / MATRIX VIBE ======== -->
+
+<h1 align="center">🕷️ Mrs Crypt — <span title="Cryptologism">0xCRYPT</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Tech+Builder+%7C+Automation+Enthusiast;Multimedia+Ops+%7C+Cybersecurity+Learner;Another+man%E2%80%99s+trash+is+another+man%E2%80%99s+treasure" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=39FF14&center=true&vCenter=true&width=680&lines=%24+init+profile...+OK;%24+boot+automation+stack...+OK;%24+deploy+Gimmedia+ops...+running;%24+status%3A+alive+%26+hacking" alt="typing banner" />
 </p>
 
----
+<!-- thin neon divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80-39FF14?style=flat-square&labelColor=0D1117">
+</p>
 
-## 🔐 About Me
-- 💻 Build bots, automations & tools (Python, C#, n8n)  
-- 🎥 Multimedia Ops with **Gimmedia Sdn Bhd**  
-- 📦 E-commerce workflows (TikTok Shop / Shopee)  
-- 🛠️ DIY NAS, cybersecurity, and OBS overlays  
+## 🧪 About
+<p align="center">
+  Builder of bots & automations (Python, C#, n8n).<br/>
+  Multimedia Ops @ <b>Gimmedia Sdn Bhd</b> • TikTok/Shopee pipelines.<br/>
+  DIY NAS • Cybersecurity learner • OBS overlay tinkerer.
+</p>
 
----
-
-## 🛠️ Tech Stack & Tools
+## 🧰 Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,git,github,vscode,docker,linux&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-A020F0?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OBS-302E31?style=for-the-badge&logo=obsstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-0D1117?logo=n8n&logoColor=39FF14&labelColor=0D1117&color=39FF1422&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OBS-0D1117?logo=obsstudio&logoColor=39FF14&labelColor=0D1117&color=39FF1422&style=for-the-badge"/>
 </p>
 
----
-
-## 📊 GitHub Highlights
+## 📈 Signals
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptologism&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://streak-stats.demolab.com?user=cryptologism&theme=tokyonight&hide_border=true" height="160" />
+  <!-- main stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptologism&show_icons=true&hide_title=true&bg_color=0D1117&title_color=39FF14&text_color=B3F7C8&icon_color=39FF14&border_color=22272e" height="155" />
+  <img src="https://streak-stats.demolab.com?user=cryptologism&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakNum=B3F7C8&sideNums=B3F7C8&currStreakLabel=39FF14&sideLabels=39FF14&dates=6AA96A" height="155" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptologism&layout=compact&theme=tokyonight" height="120" />
+  <!-- top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptologism&layout=compact&bg_color=0D1117&title_color=39FF14&text_color=B3F7C8&border_color=22272e" height="120" />
 </p>
-
-### 📊 GitHub Activity Graph
-[![Cryptologism's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cryptologism&bg_color=0d1117&color=58a6ff&line=38bdae&point=f28c2e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🎧 Now Playing on Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
----
-
-## 🕸️ Featured Projects
-- 🔹 **Arachnids Portfolio** — creative + technical showcase  
-  https://cryptologism.github.io/arachnidsportfolio/page.html  
-- 🔹 **Gimmedia Kelantan Ops** — TikTok Shop live-host coordination & dashboards  
-  https://cryptologism.github.io/gimmediakelantan/  
-- 🔹 **DIY NAS & IPTV** — self-hosted media experiments  
-  https://github.com/Cryptologism/standaloneiptv  
-- 🔹 **ROM UI Translation** — localization & modding  
-  https://github.com/Cryptologism/romui-translation  
-
----
-
-## 🌍 Connect
-<p align="center">
-  <a href="https://thearachnids.blogspot.com/"><img src="https://img.shields.io/badge/Website-thearachnids.blogspot.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://github.com/Cryptologism"><img src="https://img.shields.io/badge/GitHub-Cryptologism-black?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://thearachnids.blogspot.com/"><img src="https://img.shields.io/badge/Blog-The%20Arachnids-orange?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-</p>
-
----
 
 <p align="center">
-  <sub>© Mrs Crypt — Tech, automation, and a little chaos.</sub>
+  <!-- activity graph in neon -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cryptologism&bg_color=0D1117&color=39FF14&line=39FF14&point=B3F7C8&area=true&hide_border=true" alt="activity graph"/>
 </p>
+
+## 🎧 Now Playing
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color_cover=true" alt="spotify now playing"/>
+  </a>
+</p>
+
+## 🕸️ Deploys
+<p align="center">
+  🔹 <a href="https://cryptologism.github.io/arachnidsportfolio/page.html">Arachnids Portfolio</a> — creative + technical<br/>
+  🔹 <a href="https://cryptologism.github.io/gimmediakelantan/">Gimmedia Ops</a> — dashboards & host tooling<br/>
+  🔹 <a href="https://github.com/Cryptologism/standaloneiptv">DIY NAS & IPTV</a> — self-hosted media<br/>
+  🔹 <a href="https://github.com/Cryptologism/romui-translation">ROM UI Translation</a> — localization
+</p>
+
+## 🌐 Links
+<p align="center">
+  <a href="https://thearachnids.blogspot.com/"><img src="https://img.shields.io/badge/Website-thearachnids.blog-39FF14?style=for-the-badge&logo=google-chrome&logoColor=39FF14&labelColor=0D1117&color=39FF1422"/></a>
+  <a href="https://github.com/Cryptologism"><img src="https://img.shields.io/badge/GitHub-cryptologism-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=39FF1422"/></a>
+  <a href="https://thearachnids.blogspot.com/"><img src="https://img.shields.io/badge/Blog-Arachnids-39FF14?style=for-the-badge&logo=blogger&logoColor=39FF14&labelColor=0D1117&color=39FF1422"/></a>
+</p>
+
+<p align="center"><sub>© Mrs Crypt — systems online. :: ://ready</sub></p>
