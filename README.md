@@ -6,10 +6,10 @@
 ---
 
 ## 🔐 About Me
-- 💻 Build bots, automations & tools (Python, C#, n8n)
-- 🎥 Multimedia Ops with **Gimmedia Sdn Bhd**
-- 📦 E-commerce workflows (TikTok Shop / Shopee)
-- 🛠️ DIY NAS, cybersecurity, and OBS overlays
+- 💻 Build bots, automations & tools (Python, C#, n8n)  
+- 🎥 Multimedia Ops with **Gimmedia Sdn Bhd**  
+- 📦 E-commerce workflows (TikTok Shop / Shopee)  
+- 🛠️ DIY NAS, cybersecurity, and OBS overlays  
 
 ---
 
@@ -40,7 +40,7 @@
 
 ### 🎧 Now Playing on Spotify
 <!-- Fast method using public endpoint. Replace YOUR_SPOTIFY_USER_ID with your Spotify username -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=f40b02d904ba40018068d9aa66a21aff&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=f40b02d904ba40018068d9aa66a21aff&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
 
 <!-- If you self-hosted the widget on Vercel, swap the two URLs above to your own domain:
 https://YOUR-APP.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212
@@ -50,19 +50,19 @@ https://YOUR-APP.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&t
 
 ## 🕸️ Featured Projects
 - 🔹 **Arachnids Portfolio** — creative + technical showcase  
-  https://cryptologism.github.io/arachnidsportfolio/page.html
+  https://cryptologism.github.io/arachnidsportfolio/page.html  
 - 🔹 **Gimmedia Kelantan Ops** — TikTok Shop live-host coordination & dashboards  
-  https://cryptologism.github.io/gimmediakelantan/
+  https://cryptologism.github.io/gimmediakelantan/  
 - 🔹 **DIY NAS & IPTV** — self-hosted media experiments  
-  https://github.com/Cryptologism/standaloneiptv
+  https://github.com/Cryptologism/standaloneiptv  
 - 🔹 **ROM UI Translation** — localization & modding  
-  https://github.com/Cryptologism/romui-translation
+  https://github.com/Cryptologism/romui-translation  
 
 ---
 
 ## 🌍 Connect
 <p align="center">
-  <a href="[http://null404.com](https://thearachnids.blogspot.com/)"><img src="https://img.shields.io/badge/Website-null404.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://thearachnids.blogspot.com/"><img src="https://img.shields.io/badge/Website-thearachnids.blogspot.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/Cryptologism"><img src="https://img.shields.io/badge/GitHub-Cryptologism-black?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://thearachnids.blogspot.com/"><img src="https://img.shields.io/badge/Blog-The%20Arachnids-orange?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </p>
