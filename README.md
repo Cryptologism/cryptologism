@@ -39,12 +39,7 @@
 ---
 
 ### 🎧 Now Playing on Spotify
-<!-- Fast method using public endpoint. Replace 31k3witxl77oxkr2gjzxhwcatppq with your Spotify username -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&redirect=true)
-
-<!-- If you self-hosted the widget on Vercel, swap the two URLs above to your own domain:
-https://YOUR-APP.vercel.app/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212
--->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
