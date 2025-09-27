@@ -39,11 +39,11 @@
 ---
 
 ### 🎧 Now Playing on Spotify
-<!-- Fast method using public endpoint. Replace f40b02d904ba40018068d9aa66a21aff with your Spotify username -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=f40b02d904ba40018068d9aa66a21aff&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=f40b02d904ba40018068d9aa66a21aff&redirect=true)
+<!-- Fast method using public endpoint. Replace 31k3witxl77oxkr2gjzxhwcatppq with your Spotify username -->
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&redirect=true)
 
 <!-- If you self-hosted the widget on Vercel, swap the two URLs above to your own domain:
-https://YOUR-APP.vercel.app/api/view?uid=f40b02d904ba40018068d9aa66a21aff&cover_image=true&theme=novatorem&show_offline=false&background_color=121212
+https://YOUR-APP.vercel.app/api/view?uid=31k3witxl77oxkr2gjzxhwcatppq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212
 -->
 
 ---
