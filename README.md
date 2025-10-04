@@ -1,6 +1,6 @@
 <!-- ======== H4X0R MODE: NEON / MATRIX VIBE ======== -->
 
-<h1 align="center">🕷️ Mrs Crypt — <span title="Cryptologism">0xCRYPT</span></h1>
+<h1 align="center">🕷️ Sir Crypt — <span title="Cryptologism">0xCRYPT</span></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=800&color=39FF14&center=true&vCenter=true&width=680&lines=%24+init+profile...+OK;%24+boot+automation+stack...+OK;%24+deploy+Gimmedia+ops...+running;%24+status%3A+alive+%26+hacking" alt="typing banner" />
 </p>
