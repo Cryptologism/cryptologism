@@ -70,7 +70,6 @@
 
 ## 🕸️ Deploys
 <p align="center">
-  🔹 <a href="https://cryptologism.github.io/arachnidsportfolio/page.html">Arachnids Portfolio</a> — creative + technical<br/>
   🔹 <a href="https://cryptologism.github.io/gimmediakelantan/">Gimmedia Ops</a> — dashboards &amp; host tooling<br/>
   🔹 <a href="https://github.com/Cryptologism/standaloneiptv">DIY NAS &amp; IPTV</a> — self-hosted media<br/>
   🔹 <a href="https://github.com/Cryptologism/romui-translation">ROM UI Translation</a> — localization
