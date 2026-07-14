@@ -1,57 +1,84 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Sir+Crypto+%2F+The-Arachnids" alt="Sir Crypto" />
+<br/>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%20Malaysia-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=39FF14" />
-  <img src="https://img.shields.io/badge/sieureast-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=39FF14" />
-  <img src="https://img.shields.io/badge/cryptologism-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=39FF14" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Sir+Crypto+%2F+The-Arachnids." alt="name" />
+
+</div>
+
+<br/>
+
+```
+Kelantan, MY  ·  founder  ·  self-hoster  ·  builder
+```
 
 <br/>
 
 ---
 
-Founder of **[Prime Creator Media](https://primecreatormedia.com)** — a Kelantan-based TikTok MCN running live-selling campaigns, creator management, and brand partnerships. Built everything from scratch, running on self-hosted infrastructure.
+By day — running **[Prime Creator Media](https://primecreatormedia.com)**.
+A TikTok MCN. Live-selling. Creator management. Brand deals.
+Kelantan-built, self-funded, still standing.
 
-I don't use frameworks to look busy. I pick tools that solve the actual problem, then move on.
+By night — keeping two VPS alive, writing bots nobody asked for,
+and building WebGL experiments that serve no business purpose whatsoever.
 
----
-
-**what i've shipped**
-
-| | |
-|---|---|
-| [primecreatormedia.com](https://primecreatormedia.com) | TikTok MCN landing — 11 creators, live-selling network |
-| [sieureast.com/showcase](https://sieureast.com/showcase/) | Portfolio · WebGL experiments · business template demos |
-| [sieureast.com/store](https://sieureast.com/store/) | Hosting store with 5 plans and a marketplace |
-| [sieureast.com/gameclaim](https://sieureast.com/gameclaim) | Self-serve digital game claim system |
-| [sieureast.com/prompts](https://sieureast.com/prompts/) | 48 hand-written pentesting prompts across 12 categories |
-| [sieureast.com/gimmedia](https://sieureast.com/gimmedia/) | Creator network site — 13 TikTok teams |
+Both feel equally important.
 
 ---
 
-**lab** &nbsp;·&nbsp; [sieureast.com/showcase](https://sieureast.com/showcase/)
+<br/>
 
-```
-unfold   →  3D cube that unfolds on scroll          Three.js + GSAP
-neural   →  live particle neural net with bloom     WebGL
-kedai3d  →  NOIR 01, PBR product visualizer         Three.js
+**[ things that exist because of me ]**
+
+<br/>
+
+```diff
++ primecreatormedia.com     TikTok MCN · 11 creators · live-selling network
++ sieureast.com/showcase    portfolio · WebGL lab · 7 business template demos
++ sieureast.com/store       hosting store · 5 plans · marketplace
++ sieureast.com/gameclaim   self-serve digital game claim · PHP · MariaDB
++ sieureast.com/prompts     48 hand-written pentesting prompts · 12 categories
 ```
 
----
-
-**stack** &nbsp;·&nbsp; what actually runs things
-
-`Python` `JavaScript` `TypeScript` `PHP` `React` `Next.js` `Docker` `Linux` `Nginx` `Apache` `MariaDB`
+<br/>
 
 ---
 
-**elsewhere**
+**[ things built for the love of it ]**
 
-[sieureast.com](https://sieureast.com) &nbsp;·&nbsp;
-[primecreatormedia.com](https://primecreatormedia.com) &nbsp;·&nbsp;
-[blog](https://thearachnids.blogspot.com/) &nbsp;·&nbsp;
-[ROM UI Translation](https://github.com/Cryptologism/romui-translation)
+<br/>
+
+> `unfold/` — a 3D cube that unfolds itself as you scroll down.
+> Nobody asked. Three.js + GSAP. Still proud of it.
+
+> `neural/` — live particle neural network with bloom.
+> Runs in your browser. Does nothing useful. Looks insane.
+
+> `kedai3d/` — NOIR 01. PBR product visualizer.
+> Three.js. Amber light. Built it in one night.
+
+&nbsp;&nbsp;&nbsp;&nbsp;→ [sieureast.com/showcase](https://sieureast.com/showcase/)
+
+<br/>
 
 ---
 
-<sub>everything self-hosted &nbsp;·&nbsp; nothing outsourced &nbsp;·&nbsp; kelantan, my</sub>
+`Python` &nbsp;`JS` &nbsp;`TS` &nbsp;`PHP` &nbsp;`React` &nbsp;`Next.js` &nbsp;`Docker` &nbsp;`Linux` &nbsp;`Nginx` &nbsp;`MariaDB` &nbsp;`Postfix`
+
+---
+
+<br/>
+
+<div align="center">
+
+[sieureast.com](https://sieureast.com) &nbsp;&nbsp;·&nbsp;&nbsp; [primecreatormedia.com](https://primecreatormedia.com) &nbsp;&nbsp;·&nbsp;&nbsp; [blog](https://thearachnids.blogspot.com/)
+
+<br/>
+
+<sub>everything runs on infrastructure i built myself.<br/>if it breaks at 3am, i fix it. that's the deal.</sub>
+
+</div>
+
+<br/>
