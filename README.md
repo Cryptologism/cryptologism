@@ -1,71 +1,68 @@
 <br/>
-<br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=Sir+Crypto+%2F+The-Arachnids." alt="name" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=99999&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=80&lines=Sir+Crypto+%2F+The-Arachnids." alt="name" />
 
 </div>
 
 <br/>
+<br/>
 
 ```
-Kelantan, MY  ·  founder  ·  self-hoster  ·  builder
-```
-
-<br/>
-
----
-
-By day — running **[Prime Creator Media](https://primecreatormedia.com)**.
-A TikTok MCN. Live-selling. Creator management. Brand deals.
-Kelantan-built, self-funded, still standing.
-
-By night — keeping two VPS alive, writing bots nobody asked for,
-and building WebGL experiments that serve no business purpose whatsoever.
-
-Both feel equally important.
-
----
-
-<br/>
-
-**[ things that exist because of me ]**
-
-<br/>
-
-```diff
-+ primecreatormedia.com     TikTok MCN · 11 creators · live-selling network
-+ sieureast.com/showcase    portfolio · WebGL lab · 7 business template demos
-+ sieureast.com/store       hosting store · 5 plans · marketplace
-+ sieureast.com/gameclaim   self-serve digital game claim · PHP · MariaDB
-+ sieureast.com/prompts     48 hand-written pentesting prompts · 12 categories
+not a developer.
+a person who got tired of waiting for someone else to build it.
 ```
 
 <br/>
 
 ---
 
-**[ things built for the love of it ]**
+<br/>
+
+**the company**
+
+Started **[Prime Creator Media](https://primecreatormedia.com)** from nothing.
+TikTok MCN. Live-selling. Creator deals. Still running.
+No investors. No co-founder. Just figuring it out.
 
 <br/>
 
-> `unfold/` — a 3D cube that unfolds itself as you scroll down.
-> Nobody asked. Three.js + GSAP. Still proud of it.
+**the obsession**
 
-> `neural/` — live particle neural network with bloom.
-> Runs in your browser. Does nothing useful. Looks insane.
+Two servers humming somewhere.
+Bots that text me when things break.
+WebGL experiments that exist purely because I got curious at midnight.
 
-> `kedai3d/` — NOIR 01. PBR product visualizer.
-> Three.js. Amber light. Built it in one night.
-
-&nbsp;&nbsp;&nbsp;&nbsp;→ [sieureast.com/showcase](https://sieureast.com/showcase/)
+Not productive. Can't stop.
 
 <br/>
 
 ---
 
-`Python` &nbsp;`JS` &nbsp;`TS` &nbsp;`PHP` &nbsp;`React` &nbsp;`Next.js` &nbsp;`Docker` &nbsp;`Linux` &nbsp;`Nginx` &nbsp;`MariaDB` &nbsp;`Postfix`
+<br/>
+
+**the work** — in order of how much sleep it cost me
+
+```
+01  primecreatormedia.com   ████████████  still costs sleep
+02  sieureast.com/showcase  ███████░░░░░  worth it
+03  sieureast.com/store     █████░░░░░░░  done
+04  sieureast.com/gameclaim ████░░░░░░░░  done
+05  sieureast.com/prompts   ███░░░░░░░░░  done
+```
+
+<br/>
+
+**the experiments** — [showcase/lab](https://sieureast.com/showcase/)
+
+```
+unfold    built a 3D cube that unfolds on scroll. three.js + gsap.
+neural    particle neural network, live in your browser. webgl.
+kedai3d   noir product renderer. pbr lighting. one night.
+```
+
+<br/>
 
 ---
 
@@ -73,11 +70,15 @@ Both feel equally important.
 
 <div align="center">
 
-[sieureast.com](https://sieureast.com) &nbsp;&nbsp;·&nbsp;&nbsp; [primecreatormedia.com](https://primecreatormedia.com) &nbsp;&nbsp;·&nbsp;&nbsp; [blog](https://thearachnids.blogspot.com/)
+[site](https://sieureast.com) &nbsp;·&nbsp; [pcm](https://primecreatormedia.com) &nbsp;·&nbsp; [blog](https://thearachnids.blogspot.com/)
 
 <br/>
 
-<sub>everything runs on infrastructure i built myself.<br/>if it breaks at 3am, i fix it. that's the deal.</sub>
+```
+if it's running, i built it.
+if it broke, i fixed it.
+if it doesn't exist yet — give me a weekend.
+```
 
 </div>
 
