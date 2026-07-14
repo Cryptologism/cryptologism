@@ -1,6 +1,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=60&lines=Sir+Crypto+%2F+The-Arachnids" alt="Sir Crypto" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=99999&color=39FF14&center=true&vCenter=true&width=700&height=30&lines=Kelantan%2C+Malaysia+·+sieureast+·+cryptologism" alt="location" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Kelantan,%20Malaysia-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=39FF14" />
+  <img src="https://img.shields.io/badge/sieureast-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=39FF14" />
+  <img src="https://img.shields.io/badge/cryptologism-0D1117?style=flat-square&logoColor=39FF14&labelColor=0D1117&color=39FF14" />
+</p>
 
 <br/>
 
