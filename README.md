@@ -50,6 +50,8 @@ Not productive. Can't stop.
 03  sieureast.com/store     █████░░░░░░░  done
 04  sieureast.com/gameclaim ████░░░░░░░░  done
 05  sieureast.com/prompts   ███░░░░░░░░░  done
+06  sieureast.com/play      ██████░░░░░░  done
+07  game server hosting     █████████░░░  never sleeps
 ```
 
 <br/>
