@@ -20,17 +20,17 @@ a person who got tired of waiting for someone else to build it.
 
 <br/>
 
-**the company**
+**the base**
 
-Started **[Prime Creator Media](https://primecreatormedia.com)** from nothing.
-TikTok MCN. Live-selling. Creator deals. Still running.
-No investors. No co-founder. Just figuring it out.
+**[sieureast.com](https://sieureast.com)** — everything lives here.
+A store, a game server cluster, an HR system, a WhatsApp bot, a wiki.
+One box, three VPS, zero investors. Just figuring it out.
 
 <br/>
 
 **the obsession**
 
-Two servers humming somewhere.
+Servers humming somewhere.
 Bots that text me when things break.
 WebGL experiments that exist purely because I got curious at midnight.
 
@@ -45,13 +45,14 @@ Not productive. Can't stop.
 **the work** — in order of how much sleep it cost me
 
 ```
-01  primecreatormedia.com   ████████████  still costs sleep
-02  TidurRO game servers    █████████░░░  never sleeps
-03  sieureast.com/showcase  ███████░░░░░  worth it
-04  sieureast.com/store     █████░░░░░░░  done
-05  sieureast.com/gameclaim ████░░░░░░░░  done
-06  sieureast.com/prompts   ███░░░░░░░░░  done
-07  sieureast.com/play      ██████░░░░░░  done
+01  TidurRO game servers    ████████████  never sleeps
+02  sieureast.com/gameclaim ████████░░░░  real orders, real money
+03  Sri Kasih HR system     ██████░░░░░░  real staff depend on it
+04  TidurRO wiki            █████░░░░░░░  documented it all
+05  sieureast.com/showcase  ███████░░░░░  worth it
+06  sieureast.com/store     █████░░░░░░░  done
+07  sieureast.com/prompts   ███░░░░░░░░░  done
+08  sieureast.com/play      ██████░░░░░░  done
 ```
 
 <br/>
@@ -73,7 +74,7 @@ claudeciv a pixel-art village that grows every time i ship something. for fun.
 
 <div align="center">
 
-[site](https://sieureast.com) &nbsp;·&nbsp; [pcm](https://primecreatormedia.com) &nbsp;·&nbsp; [blog](https://thearachnids.blogspot.com/)
+[site](https://sieureast.com) &nbsp;·&nbsp; [blog](https://thearachnids.blogspot.com/)
 
 <br/>
 
