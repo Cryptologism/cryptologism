@@ -46,12 +46,12 @@ Not productive. Can't stop.
 
 ```
 01  primecreatormedia.com   ████████████  still costs sleep
-02  sieureast.com/showcase  ███████░░░░░  worth it
-03  sieureast.com/store     █████░░░░░░░  done
-04  sieureast.com/gameclaim ████░░░░░░░░  done
-05  sieureast.com/prompts   ███░░░░░░░░░  done
-06  sieureast.com/play      ██████░░░░░░  done
-07  game server hosting     █████████░░░  never sleeps
+02  TidurRO game servers    █████████░░░  never sleeps
+03  sieureast.com/showcase  ███████░░░░░  worth it
+04  sieureast.com/store     █████░░░░░░░  done
+05  sieureast.com/gameclaim ████░░░░░░░░  done
+06  sieureast.com/prompts   ███░░░░░░░░░  done
+07  sieureast.com/play      ██████░░░░░░  done
 ```
 
 <br/>
@@ -62,6 +62,7 @@ Not productive. Can't stop.
 unfold    built a 3D cube that unfolds on scroll. three.js + gsap.
 neural    particle neural network, live in your browser. webgl.
 kedai3d   noir product renderer. pbr lighting. one night.
+claudeciv a pixel-art village that grows every time i ship something. for fun.
 ```
 
 <br/>
